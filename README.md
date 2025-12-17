@@ -1,2 +1,3 @@
 # Churn_prediction_model
-As a Data Analyst  for a bank, I built a churn prediction pipeline on a 10k-client dataset. By analyzing demographics and financials, I focused on maximizing Recall to identify the largest volume of at-risk customers. This strategy minimized missed detections, enabling proactive retention campaigns
+As a Data Analyst  for a retail bank, I was tasked with addressing customer attrition using a dataset of 10,000 clients. The dataset includes demographic details and financial behaviors.
+The primary objective was to build a machine learning pipeline to predict which customers are likely to close their accounts. The goal is to identify the largest possible volume of potential churners, minimizing missed detections, to enable proactive retention campaigns.
